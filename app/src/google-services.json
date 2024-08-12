@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248181330143",
+    "project_id": "bms-shopping-app",
+    "storage_bucket": "bms-shopping-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248181330143:android:47dc28853ba7acce4e196a",
+        "android_client_info": {
+          "package_name": "com.example.bmsas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPyLwaJ36O23V6LC3XfqMk1aNJmu8mz0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
